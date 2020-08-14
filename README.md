@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 
@@ -23,7 +23,7 @@ Most recently, as part of my course at Lambda School, I have learnt Python. Now,
 -Javascript
 
 
-## 📫 I Would Love to Hear from you: 
+### 📫 I Would Love to Hear from you: 
 -Find me on Twitter: https://twitter.com/hesterrk
 
 -Find me on LinkedIn: https://www.linkedin.com/in/hester-knight-3163bb99/
