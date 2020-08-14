@@ -6,10 +6,15 @@
 Most recently, as part of my course at Lambda School, I have learnt Python. Now, i'm currently exploring React Native. 
 
 ⭐ My Journey to Web Development?
+
 -A very short one!
+
 -Completed my undergraduate History degree...
+
 -Worked in a clothing business for a few months, where I build the website using WordPress, which sparked an interest in the tech industry...
+
 -Came across Lambda School, tried the pre-course work and loved every second of it!...
+
 -11 months later from starting the course, I have not looked back since
 
 
