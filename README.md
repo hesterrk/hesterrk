@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**hesterrk/hesterrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 ⭐ I am a Full Stack Web Developer, with a thirst for learning new technologies and challenging myself!
@@ -33,4 +30,4 @@ Most recently, as part of my course at Lambda School, I have learnt Python. Now,
 
 
 
--->
+
