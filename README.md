@@ -19,12 +19,17 @@ Most recently, as part of my course at Lambda School, I have learnt Python. Now,
 
 
 ⭐ I'm Looking For:
+
 -A Full Stack Web Developer position
 
 ⭐ Tech I Love Working With:
+
 -React
+
 -Node.js
+
 -Python
+
 -Javascript
 
 
