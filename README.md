@@ -33,8 +33,4 @@ Most recently, as part of my course at Lambda School, I have learnt Python. Now,
 
 
 
-
-
-
-
 -->
