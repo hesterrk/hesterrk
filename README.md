@@ -14,9 +14,12 @@ Most recently, as part of my course at Lambda School, I have learnt Python. Now,
 
 • Worked in a clothing business for a few months afterwards, where I learnt and built the website using WordPress. This sparked an interest in the tech industry...
 
-• Came across Lambda School, determined to try something completely new, interesting and challenging, I completed the pre-course work and loved every second of it!...
+• Came across Lambda School - an online coding bootcamp, determined to try something completely new, interesting and challenging, I completed the pre-course work and loved every second of it!...
 
 • 11 months later from starting the course, I have not looked back since!
+
+• I have since mastered React, JavaScript ES6, Node.js, HTML, CSS, Express.js, SQLite, WordPress, Jest, Redux, Python, RestAPI alongside core Computer Science topics such as Data Structures and Algorithms
+
 
 
 ### ⭐  I'm Looking For:
