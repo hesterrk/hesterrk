@@ -3,7 +3,7 @@
 
 
 ⭐ I am a Full Stack Web Developer, with a thirst for learning new technologies and challenging myself!
-Most recently, as part of my course at Lambda School, I have learnt Python. Now, i'm currently exploring React Native. 
+Most recently I learnt Python and now i'm currently exploring React Native and MongoDB.
 
 
 ### ⭐ My Journey to Web Development?
