@@ -24,7 +24,9 @@ Most recently I learnt Python and now i'm currently exploring React Native and M
 
 ### ⭐  I'm Looking For:
 
-• A Full Stack Web Developer position
+• A Full Stack Web Developer position or
+
+• A Front-End Developer position
 
 ### ⭐ Tech I Love Working With:
 
