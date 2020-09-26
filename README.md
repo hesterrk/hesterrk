@@ -14,7 +14,7 @@ Most recently I learnt Python and now i'm currently exploring React Native, Mong
 
 • Worked in a sustainably-focused clothing business for a few months afterwards, due to my love of all things green. One task being to build the website using WordPress, a technology I had not used before. Learning to use this and eventually building the website, sparked an interest in the tech industry...
 
-• Came across Lambda School - an online coding bootcamp, determined to try something completely new, interesting and challenging, I completed the pre-course work and loved every second of it!
+• After some research, I came across Lambda School - an online coding bootcamp. Determined to try something completely new, interesting and challenging, I completed the pre-course work and loved every second of it!
 
 • 11 months later from starting the course, I have not looked back
 
