@@ -6,9 +6,9 @@
 Most recently I learnt Python and now i'm currently exploring React Native, MongoDB and TypeScript.
 
 
-### ⭐ My Journey to Web Development?
+### ⭐ My Journey into Web Development?
 
-• A very short one! 
+• A short one! 
 
 • Followed my passion of studying History to university, obtaining my BA degree...
 
