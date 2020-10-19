@@ -33,6 +33,8 @@ Most recently I learnt Python and now i'm currently exploring React Native, Mong
 
 • Javascript
 
+• TypeScript
+
 
 ### 📫 I Would Love to Hear From You: 
 • Find me on Twitter: https://twitter.com/hesterrk
