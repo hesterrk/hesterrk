@@ -8,7 +8,7 @@ Most recently I learnt Python and now i'm currently exploring React Native, Mong
 
 ### ⭐ My Journey into Web Development?
 
-• A short one! 
+• An unusual one! 
 
 • Followed my passion of studying History to university, obtaining my BA degree...
 
