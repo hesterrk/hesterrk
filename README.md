@@ -3,7 +3,7 @@
 
 
 ⭐ I am a Full Stack Software Developer, with a thirst for learning new technologies and challenging myself!
-Most recently I learnt Python and now i'm currently exploring React Native, MongoDB and Angular.
+Most recently I learnt Angular and now i'm currently exploring React Native and Svelte.
 
 
 ### ⭐ My Journey into Web Development?
