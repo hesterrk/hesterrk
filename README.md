@@ -20,8 +20,6 @@ Most recently I learnt Angular and now i'm currently exploring React Native and 
 
 • I have since mastered React, JavaScript ES6, Node.js, HTML, CSS, Express.js, SQLite, WordPress, Jest, Redux, Python, RestAPI alongside core Computer Science topics such as Data Structures and Algorithms
 
-• Currently working as a Software Developer at Edocuments
-
 
 ### ⭐ Tech I Love Working With:
 
